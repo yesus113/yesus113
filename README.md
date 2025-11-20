@@ -2,7 +2,7 @@
 
 # Hi, I'm Adrian Systems Engineer 
 
-Code is what I do, that's it, I work hard, consistency is my strongest core value as a person.
+Code. Hard work. Consistency.
 
 
 ## 🛠 Skills
