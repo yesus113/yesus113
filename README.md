@@ -11,10 +11,10 @@ Code is what I do, that's it, I work hard, consistency is my strongest core valu
 ## Solid knowledge
 [![My Skills](https://skillicons.dev/icons?i=php,laravel)](https://skillicons.dev)
 ## Basic
-[![My Skills](https://skillicons.dev/icons?i=html,mysql,git,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,mysql,git,postman,python)](https://skillicons.dev)
 ## Learning
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,go,postgres,vue,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,go,postgres,vue,git,fastapi)](https://skillicons.dev)
 
 
 
