@@ -14,7 +14,7 @@ Code is what I do, that's it, I work hard, consistency is my strongest core valu
 [![My Skills](https://skillicons.dev/icons?i=html,mysql,git,postman,python)](https://skillicons.dev)
 ## Learning
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,go,postgres,vue,git,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,postgres,vue,git,fastapi)](https://skillicons.dev)
 
 
 
